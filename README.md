@@ -17,10 +17,18 @@
 
 - ⚡ Fun fact **I love to travel and farming.**
 
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nayan-ingale/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/nayan_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
 
 
 ## 🚀 Languages and Tools:
----
+
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -47,7 +55,7 @@
 </p>
 
 ## 📊 My Github Stats
----
+
 
   <br/>
     <a href="https://github.com/NayanIngale1/github-readme-stats"><img alt="Nayan Ingale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NayanIngale1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -66,17 +74,9 @@
 <br/>
 <br/>
 
-## Connect with me:
----
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/nayan-ingale/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/nayan_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
-
-<!-- ## ❤ Views and Followers
+## ❤ Views and Followers
 <a href="https://github.com/NayanIngale1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NayanIngale1">
 </a>
-<a href="https://github.com/NayanIngale1?tab=followers"><img src="https://img.shields.io/github/followers/NayanIngale1?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/NayanIngale1?tab=followers"><img src="https://img.shields.io/github/followers/NayanIngale1?label=Followers&style=social" alt="GitHub Badge"></a>
