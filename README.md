@@ -16,6 +16,14 @@
 - 📫 How to reach me **nayaningale15@gmail.com**
 
 - ⚡ Fun fact **I love to travel and farming.**
+- 
+
+## ❤ Views and Followers
+<a href="https://github.com/NayanIngale1/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NayanIngale1">
+</a>
+<a href="https://github.com/NayanIngale1?tab=followers"><img src="https://img.shields.io/github/followers/NayanIngale1?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 ## Connect with me:
 
@@ -75,8 +83,4 @@
 <br/>
 
 
-## ❤ Views and Followers
-<a href="https://github.com/NayanIngale1/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NayanIngale1">
-</a>
-<a href="https://github.com/NayanIngale1?tab=followers"><img src="https://img.shields.io/github/followers/NayanIngale1?label=Followers&style=social" alt="GitHub Badge"></a>
+
