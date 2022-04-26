@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **some cool and awesome ideas.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nayaningale.vercel.app/)**
 
 - 📫 How to reach me **nayaningale15@gmail.com**
 
