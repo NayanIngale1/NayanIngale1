@@ -13,8 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nayaningale.vercel.app/)**
 
-- 📫 How to reach me **nayaningale15@gmail.com**
-
+- 📫 How to reach me **nayanvpingale@gmail.com**  /  **nayaningale15@gmail.com** 
 - ⚡ Fun fact **I love to travel and farming.**
 - 
 
