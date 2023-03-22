@@ -76,7 +76,10 @@
 
 
 
+<!---
 <a href="https://github.com/NayanIngale1/github-readme-activity-graph"><img alt="Nayan Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NayanIngale1&bg_color=" /></a>
+
+---->
 
 [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NayanIngale1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NayanIngale1/github-readme-activity-graph)
 <br/>
