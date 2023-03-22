@@ -76,12 +76,13 @@
 
 
 
-<a href="https://github.com/NayanIngale1/github-readme-activity-graph"><img alt="Nayan Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NayanIngale1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NayanIngale1/github-readme-activity-graph"><img alt="Nayan Ingale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NayanIngale1&bg_color=" /></a>
 
+[![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NayanIngale1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NayanIngale1/github-readme-activity-graph)
 <br/>
 <br/>
 <p align="center">
-<img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+<img width="700" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
 </p>
 
 ![](https://i.imgur.com/IuzIC2j.png)
